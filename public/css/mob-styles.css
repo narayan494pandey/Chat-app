@@ -1,0 +1,22 @@
+@media only screen and (max-device-width: 768px) {
+  .centered-form__box {
+    padding: 30px;
+    width: 300px;
+    height: 450px;
+  }
+
+  .centered-form input {
+    margin-bottom: 30px;
+    width: 100%;
+    font-size: 25px;
+  }
+}
+@media only screen and (max-device-width: 320px) {
+  div {
+    width: 320px;
+    height: 615px;
+  }
+  .centered-form__box {
+    padding: 30px;
+  }
+}
